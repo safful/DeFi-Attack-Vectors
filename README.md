@@ -6,8 +6,6 @@ This Repository contains list of Common DeFi threat and Attack Vectors.
 
 #### If you find any attack vectors missing, you can create a pull request and be a contributor of the project.
 
-![](/data/1.png)
-
 ---
 
 | Serial No. | Attack Vectors                                        |
