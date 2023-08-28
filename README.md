@@ -1,4 +1,4 @@
-# DeFi-Attack-Vectors
+# DeFi Attack Vectors
 
 Decentralized finance (DeFi) is an emerging financial technology that challenges the current centralized banking system. DeFi eliminates the fees that banks and other financial companies charge for using their services and promotes the use of peer-to-peer, or P2P, transactions.
 
